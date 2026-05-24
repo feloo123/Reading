@@ -8,8 +8,9 @@ The first section contains:
 - Favorite books
 - Favorite Novels
 ### Why Reading:
-Reading is a very useful habit that you can do to raise your knowledge, and consume more knowledge, which increases your intelligence.
-<img width="1901" height="868" alt="image" src="https://github.com/user-attachments/assets/ed3587fa-aad8-4b94-a395-f0797400d2eb" />
+Reading is a very useful habit that you can do to raise your knowledge and consume more knowledge, which increases your intelligence.
+<img width="1917" height="886" alt="image" src="https://github.com/user-attachments/assets/5566e645-ad15-4b79-ae5f-4ff12abf4a40" />
+
 
 ### Advantages of Reading:
 Brain Power and Mental Health:
